@@ -1,0 +1,73 @@
+Primeira parte do curso.
+  Parte 1 das anotações.
+    LLMs - IAs de hoje em dia (chatgpt, gemini)
+
+    quebra a frase em tokens(unidade de medida para fazer a consulta no LLM)
+
+    convertem em uma matrz de dados apos transformar em binario. 
+
+    busca o complemento para a frase enviada. Se tiver varias possibilidades, busca a mais relacionada com a frase. 
+
+    quando ele não acerta são chamadas alucinações.
+
+    A diferença de um cerebro humano para os LLMs é que o cerebro humano guarda as memorias e faz ligações ao longo da vida, ja os LLMs é necessario um gasto enorme com uma criação de uma "caixa de dados" que completa 
+
+    ser mais grosso, pragmatico e direto com a ia faz com que ela responda da forma mais acertiva.
+
+    Não se conversa, se programa com palavras.
+
+    ia generativa, cria(imita)
+
+    Tecnica de prompt: CARE -> Contexto, Ação, Restrições, Exemplos
+
+    LLM -> large language model
+    LNP -> Pesquisar
+
+    Prompt LLM ex: Como economizar o decimo terceiro?
+      Contexto: Criando uma startup de desenvolvimento, cortar o cabelo, Montando um pc.
+      Ação: Crie uma forma de eu ter um fim de ano terminando positivamente.
+      Restrições: orçamento de 600 reais.
+
+
+  Parte dois.
+
+    CPU e GPU
+    CPU -> processador que processa tarefas sequenciais 
+    GPU -> processamento paralela de multiplas matrizes
+
+    IA é probabilidade, não certeza.
+
+    Algoritmo precisa de instruções claras.
+
+Parte dois do curso.
+  Parte um: Fabio Akita -> Pesquisar
+
+    Ia de criação de slides: nodebookLM
+
+    Vibe Code ->  Não ser dependente, mas sim usuario. Vibe code é ter meu junior que potencializa seu trabalho.
+
+    n8n -> Bom para algumas coisas mas não para construir um saas em cima.
+
+    DevOps -> Estudar
+
+    Site da betech integrado tem mais cursos preparatorios de graça durante um ano
+
+    Os tres tipos de Aprendizado por IA: 
+      Supervisionado
+        Tem a prova e o gabarito
+      Nao Supervisionado
+        Encontra padroes por conta propria. Agrupar pessoas por estilo de roupa
+      Por reforço
+        Adestrar um cão, dando reconpensas quando estiver correto e punições quando estiver errado
+
+    Talendar no youtube
+      Inteligencia artificial aprende a jogar mario
+
+    Ai Warehouse
+      Ai Learns...
+
+    A  memoria de um ai que aprende por reforço é limitado a memoria do computador que o criou
+
+    teachble machine -> cria agentes de ia treinados por você pelo metodo supervisionado apos o treino é possivel pegar um codigo em python com o agente criado.
+
+
