@@ -71,3 +71,4 @@ Parte dois do curso.
     teachble machine -> cria agentes de ia treinados por você pelo metodo supervisionado apos o treino é possivel pegar um codigo em python com o agente criado.
 
 
+Cursos BeTech Integrado/Entendendo a IA - BeTech Integrado 2025
